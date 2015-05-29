@@ -10,5 +10,7 @@
 #define JWTExample_JWTExample_Bridging_Header_h
 
 #import "Encrypt.h"
+#import "RSA.h"
+
 
 #endif
